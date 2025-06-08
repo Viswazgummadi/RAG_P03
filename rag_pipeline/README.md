@@ -1,9 +1,4 @@
 
----
-### 3. `rag_pipeline/README.md`
----
-
-```text
 # RAG Pipeline Module
 
 This module contains the core logic for the Retrieval Augmented Generation (RAG) pipeline. It uses LangChain and LangGraphs to define a stateful workflow that processes user queries, retrieves relevant information from the vector store, and generates answers using a Large Language Model (LLM).
