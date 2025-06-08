@@ -46,7 +46,7 @@ The system is built using LangChain and LangGraphs for orchestrating complex LLM
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/srilekha18-11/RAG.git
+    git clone https://github.com/Viswazgummadi/RAG_P03.git
     cd RAG
     ```
 
