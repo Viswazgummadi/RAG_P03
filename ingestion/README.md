@@ -1,9 +1,5 @@
 
----
-### 2. `ingestion/README.md`
----
-
-```text
+text
 # Data Ingestion Module
 
 This module is responsible for processing raw source documents (primarily PDFs), extracting their content, preparing them for retrieval, and storing them in a vector database (ChromaDB).
